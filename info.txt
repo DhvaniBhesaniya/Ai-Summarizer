@@ -1,0 +1,63 @@
+https://rapidapi.com/hub
+
+
+
+
+
+
+
+
+
+...........................................................................................................................................
+
+
+...........................................................................................................................................
+
+...........................................................................................................................................
+
+-- commands used 
+npm install @reduxjs/toolkit
+npm i
+npm run dev
+
+npm install @reduxjs/toolkit
+
+(https://tailwindcss.com/docs/guides/vite)
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+further do as document says. 
+
+
+
+npm install react-redux
+...........................................................................................................................................
+
+
+https://www.youtube.com/watch?v=A6g8xc0MoiY&list=PLbqoMiiJqklTBY7urfQkEivWfJJ-ceEb6&index=13
+
+timeline: 
+
+...........................................................................................................................................
+dhvani@inventyv:~/personal_work/Ai-Summarizer$ npm create vite@latest
+Need to install the following packages:
+create-vite@5.4.0
+Ok to proceed? (y) 
+
+
+> npx
+> create-vite
+
+✔ Project name: … ./
+✔ Current directory is not empty. Please choose how to proceed: › Ignore files and continue
+✔ Package name: … ai-summarizer
+✔ Select a framework: › React
+✔ Select a variant: › JavaScript
+
+Scaffolding project in /home/dhvani/personal_work/Ai-Summarizer...
+
+Done. Now run:
+
+  npm install
+  npm run dev
+
+dhvani@inventyv:~/personal_work/Ai-Summarizer$ 
