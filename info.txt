@@ -84,7 +84,7 @@ package.json
 
 vite.config.js
 
-->  base:"/ai-summarizer/",
+->  base:"/Ai-Summarizer/",
 
 
 
