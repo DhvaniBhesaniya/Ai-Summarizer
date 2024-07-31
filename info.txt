@@ -62,3 +62,35 @@ Done. Now run:
   npm run dev
 
 dhvani@inventyv:~/personal_work/Ai-Summarizer$ 
+
+
+
+
+
+--------------------------------------------------------------
+deploy this project to github pages. steps
+
+npm i --save-dev gh-pages
+
+
+package.json
+
+->    "homepage": "https://DhvaniBhesaniya.github.io/Ai-Summarizer/",
+
+-> "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d dist",
+
+
+vite.config.js
+
+->  base:"/ai-summarizer/",
+
+
+
+
+terminal 
+
+-> git init
+
+-> npm run deploy
