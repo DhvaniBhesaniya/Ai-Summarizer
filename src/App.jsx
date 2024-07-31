@@ -4,6 +4,7 @@ import Demo from "./components/Demo";
 import "./App.css";
 
 const App = () => {
+  console.log("App component rendered");
   return (
     <div>
       <main>
